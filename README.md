@@ -34,7 +34,7 @@ d. Battery performance summaries
 # Important
 ## Running the app
 1. Requires MATLAB with the Optimization Toolbox
-2. Place SEMOpx data csv, Demand spreasheet and function code into the same folder as the app
+2. Place SEMOpx data csv, Demand spreadsheet (System-Data-Qtr-Hourly) and function code (runBatteryOptimiser.m) into the same folder as the app or else it will not work
 3. Open BatteryChargingOptimiser.mlpp in Matlab and run it first to get instructions
 4. Adjust parameters accordingly and click Run again
 5. If demand file fails to download, here is the website to download it: ( https://www.eirgrid.ie/grid/system-and-renewable-data-reports ) and find the System Data Qtr Hourly spreadsheet
